@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\hoccode\LotteMartSuperApp\features\employee\barcode_scanner\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7530808587498824933.xml:2:13-83
+INJECTED from C:\hoccode\LotteMartSuperApp\features\employee\barcode_scanner\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7530808587498824933.xml:2:13-83
+	package
+		INJECTED from C:\hoccode\LotteMartSuperApp\features\employee\barcode_scanner\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7530808587498824933.xml
+	xmlns:android
+		ADDED from C:\hoccode\LotteMartSuperApp\features\employee\barcode_scanner\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7530808587498824933.xml:2:23-81
+uses-sdk
+INJECTED from C:\hoccode\LotteMartSuperApp\features\employee\barcode_scanner\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7530808587498824933.xml reason: use-sdk injection requested
+INJECTED from C:\hoccode\LotteMartSuperApp\features\employee\barcode_scanner\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7530808587498824933.xml
+INJECTED from C:\hoccode\LotteMartSuperApp\features\employee\barcode_scanner\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7530808587498824933.xml
+	android:targetSdkVersion
+		INJECTED from C:\hoccode\LotteMartSuperApp\features\employee\barcode_scanner\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7530808587498824933.xml
+	android:minSdkVersion
+		INJECTED from C:\hoccode\LotteMartSuperApp\features\employee\barcode_scanner\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7530808587498824933.xml

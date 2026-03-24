@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\hoccode\LotteMartSuperApp\core\database\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6541068599414837764.xml:2:13-83
+INJECTED from C:\hoccode\LotteMartSuperApp\core\database\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6541068599414837764.xml:2:13-83
+	package
+		INJECTED from C:\hoccode\LotteMartSuperApp\core\database\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6541068599414837764.xml
+	xmlns:android
+		ADDED from C:\hoccode\LotteMartSuperApp\core\database\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6541068599414837764.xml:2:23-81
+uses-sdk
+INJECTED from C:\hoccode\LotteMartSuperApp\core\database\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6541068599414837764.xml reason: use-sdk injection requested
+INJECTED from C:\hoccode\LotteMartSuperApp\core\database\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6541068599414837764.xml
+INJECTED from C:\hoccode\LotteMartSuperApp\core\database\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6541068599414837764.xml
+	android:targetSdkVersion
+		INJECTED from C:\hoccode\LotteMartSuperApp\core\database\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6541068599414837764.xml
+	android:minSdkVersion
+		INJECTED from C:\hoccode\LotteMartSuperApp\core\database\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest6541068599414837764.xml
